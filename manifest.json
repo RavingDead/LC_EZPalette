@@ -1,8 +1,8 @@
 {
     "name": "EZPalette",
-    "version_number": "0.1.0",
+    "version_number": "1.0.0",
     "description": "Raw files to make suits creation easier (CHECK README BEFORE DOWNLOADING)",
-    "website_url": "https://github.com/RavingDead/LC_JaqEmployeeGuide",
+    "website_url": "https://github.com/RavingDead/LC_EZPalette",
     "dependencies": [
     ]
 }
