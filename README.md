@@ -3,6 +3,11 @@ Raw files to make suit creation easier. **This is just raw files you'll be addin
 
 Since the UVs for this model are scattered all over UV space, this makes simple things like doing a simple color palette swap very complicated. The files in this come to remedy that problem.
 
+# Attributions
+- Zeekerss -- Creator of Lethal Company
+- danisspars -- [Player model rip](https://sketchfab.com/3d-models/lethal-company-scavenger-model-game-rip-dbcd1bbe54e7485fb13d86b4b5cbaf6b)
+- x783 -- More_Suits (Not used in this tutorial but that's what I used to import my suits, check it out [here](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/)!)
+
 # Table of Contents
 - [Pre-requisites](#pre-requisites)
 - [How-to](#how-to)
@@ -16,8 +21,9 @@ Since the UVs for this model are scattered all over UV space, this makes simple 
   - If you want to use my `Player.blend` file, you'll have to use blender
 
 # How-to
-## SuitPaletteEditor.psd
+If at any time you need the base assets used in either files (images, model), you can go find it in the resource folder.
 
+## SuitPaletteEditor.psd
 If you only want to do a color palette swap, you will only need to follow this section of the tutorial.
 
 ![image](https://github.com/RavingDead/LC_EZPalette/assets/154840527/b0cf4626-9b25-4a7d-9ec8-667900ba9706)
