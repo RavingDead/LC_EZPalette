@@ -1,7 +1,9 @@
 # LC_EZPalette
-Raw files to make suit creation easier. **This is just raw files you'll be adding. This won't do anything in-game, so you'll want to use this with mods like MoreSuits to create more suits.**
+**NOTE 1: This is just raw files you'll be adding. This won't do anything in-game, so you'll want to use this with mods like MoreSuits to create more suits.**
 
-Since the UVs for this model are scattered all over UV space, this makes simple things like doing a simple color palette swap very complicated. The files in this come to remedy that problem.
+**NOTE 2: Since I might update this here and there as I find bugs in my files / setup, you should always save a copy of your work in a separate folder, not just work from the source file!**
+
+Raw files to make suit creation easier. Since the UVs for this model are scattered all over UV space, this makes simple things like doing a simple color palette swap very complicated. The files in this come to remedy that problem.
 
 # Attributions
 - Zeekerss -- Creator of Lethal Company
